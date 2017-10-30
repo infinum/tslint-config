@@ -1,6 +1,6 @@
 {
   "name": "@infinumjs/tslint-config",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Infinum's TSLint rules",
   "main": "index.js",
   "repository": {
