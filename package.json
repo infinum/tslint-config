@@ -2,7 +2,7 @@
   "name": "@infinumjs/tslint-config",
   "version": "0.1.0",
   "description": "Infinum's TSLint rules",
-  "main": "index.js",
+  "main": "tslint.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/infinum/tslint-config.git"
