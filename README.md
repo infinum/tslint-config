@@ -1,5 +1,17 @@
 # tslint-config
 
+## Installation
+
+NPM:
+```bash
+npm install @infinumjs/tslint-config
+```
+
+Yarn:
+```bash
+yarn add @infinumjs/tslint-config
+```
+
 ## Generic support
 
 ```json
