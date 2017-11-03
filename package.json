@@ -14,11 +14,18 @@
   },
   "homepage": "https://github.com/infinum/tslint-config#readme",
   "devDependencies": {
+    "react": "^16.0.0",
     "tslint": "^5.8.0",
     "tslint-react": "^3.2.0"
   },
   "peerDependencies": {
     "tslint": "^5.8.0",
     "tslint-react": "^3.2.0"
+  },
+  "scripts": {
+    "lint": "tslint -c react.json 'examples/**/*.{ts,tsx}'"
+  },
+  "dependencies": {
+    "typescript": "^2.6.1"
   }
 }
