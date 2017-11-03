@@ -6,6 +6,7 @@
     "variable-name": [true, "ban-keywords"],
     "no-empty-interface": false,
     "no-var-requires": false,
-    "no-string-literal": false
+    "no-string-literal": false,
+    "semicolon": [true, "ignore-interfaces"]
   }
 }
