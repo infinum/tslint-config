@@ -1,32 +1,12 @@
 # tslint-config
 
-## Installation
+This repository contains two packages that provide Infinum's TSLint rules as [shareable configurations and rules](https://palantir.github.io/tslint/2016/03/31/sharable-configurations-rules.html):
 
-NPM:
-```bash
-npm install @infinumjs/tslint-config
-```
+- [Base TSLint config](base/README.md)
 
-Yarn:
-```bash
-yarn add @infinumjs/tslint-config
-```
+- [React TSLint config](react/README.md)
 
-## Generic support
-
-```json
-{
-  "extends": "@infinumjs/tslint-config"
-}
-```
-
-## React support
-
-```json
-{
-  "extends": "@infinumjs/tslint-config/react"
-}
-```
+<img src="https://infinum.co/infinum.png" width="264">
 
 ## License
 

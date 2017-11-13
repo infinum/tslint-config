@@ -1,0 +1,25 @@
+{
+    "name": "@infinumjs/tslint-config",
+    "version": "1.1.1",
+    "description": "Infinum's TSLint rules",
+    "main": "tslint.json",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/infinum/tslint-config.git"
+    },
+    "author": "Infinum JavaScript Team <hello@infinum.co>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/infinum/tslint-config/issues"
+    },
+    "homepage": "https://github.com/infinum/tslint-config#readme",
+    "devDependencies": {
+      "tslint": "^5.8.0",
+      "typescript": "^2.2.0"
+    },
+    "peerDependencies": {
+      "tslint": "^5.8.0",
+      "typescript": "^2.2.0"
+    }
+  }
+  
