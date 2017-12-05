@@ -52,7 +52,7 @@
     "no-string-based-set-interval": true,
     "no-string-based-set-timeout": true,
     "no-suspicious-comment": false,
-    "no-typeof-undefined": false,
+    "no-typeof-undefined": true,
     "no-unexternalized-strings": false,
     "no-unnecessary-bind": true,
     "no-unnecessary-field-initialization": true,
@@ -68,7 +68,7 @@
     "prefer-type-cast": false,
     "promise-must-complete": true,
     "underscore-consistent-invocation": true,
-    "use-named-parameter": false,
+    "use-named-parameter": true,
     "valid-typeof": true
   }
 }
