@@ -27,6 +27,7 @@
     "lint": "tslint -c react.json 'examples/**/*.{ts,tsx}'"
   },
   "dependencies": {
+    "tslint-microsoft-contrib": "^5.0.1",
     "tslint-react": "^3.2.0"
   }
 }
