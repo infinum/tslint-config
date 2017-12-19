@@ -12,7 +12,7 @@
     "chai-vague-errors": false,
     "export-name": true,
     "function-name": false,
-    "import-name": true,
+    "import-name": false,
     "insecure-random": true,
     "jquery-deferred-must-complete": false,
     "max-func-body-length": false,
