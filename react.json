@@ -23,6 +23,7 @@
     "react-no-dangerous-html": false,
     "react-this-binding-issue": true,
     "react-tsx-curly-spacing": false,
-    "react-unused-props-and-state": true
+    "react-unused-props-and-state": true,
+    "no-single-line-block-comment": false
   }
 }
