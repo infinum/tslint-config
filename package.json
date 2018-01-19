@@ -5,14 +5,14 @@
   "main": "tslint.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infinum/tslint-config.git"
+    "url": "git+https://github.com/infinum/js-linters.git"
   },
   "author": "Infinum JavaScript Team <hello@infinum.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/infinum/tslint-config/issues"
+    "url": "https://github.com/infinum/js-linters/issues"
   },
-  "homepage": "https://github.com/infinum/tslint-config#readme",
+  "homepage": "https://github.com/infinum/js-linters#readme",
   "devDependencies": {
     "react": "^16.0.0",
     "tslint": "^5.8.0",
