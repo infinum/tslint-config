@@ -24,7 +24,7 @@ yarn add @infinumjs/tslint-config
 
 ```json
 {
-  "extends": "@infinumjs/tslint-config/react"
+  "extends": "@infinumjs/tslint-config/react.json"
 }
 ```
 
