@@ -29,8 +29,8 @@
     "no-disable-auto-sanitization": true,
     "no-document-domain": true,
     "no-document-write": true,
-    "no-duplicate-case": true,
-    "no-empty-interfaces": true,
+    "no-duplicate-switch-case": true,
+    "no-empty-interface": true,
     "no-empty-line-after-opening-brace": true,
     "no-exec-script": true,
     "no-for-in": true,
@@ -47,7 +47,7 @@
     "no-relative-imports": false,
     "no-reserved-keywords": true,
     "no-single-line-block-comment": true,
-    "no-stateless-class": true,
+    "no-unnecessary-class": true,
     "no-string-based-set-immediate": true,
     "no-string-based-set-interval": true,
     "no-string-based-set-timeout": true,
@@ -68,7 +68,6 @@
     "prefer-type-cast": false,
     "promise-must-complete": true,
     "underscore-consistent-invocation": true,
-    "use-named-parameter": true,
-    "valid-typeof": true
+    "use-named-parameter": true
   }
 }
