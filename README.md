@@ -1,5 +1,9 @@
 # tslint-config
 
+# Note
+
+This repo is deprecated in favor of [js-linters](https://github.com/infinum/js-linters). The instalation process is the same, but the extends part changed slightly. Refer to the new repo for changes.
+
 ## Installation
 
 NPM:
